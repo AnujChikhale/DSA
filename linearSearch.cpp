@@ -17,3 +17,5 @@ int main(){
     cout<<linearSearch(arr,n,key);
     return 0;
 }
+
+//Time complexity= O(n)
